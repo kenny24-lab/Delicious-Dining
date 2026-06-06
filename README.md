@@ -26,7 +26,7 @@
 
 Delicious Dining is a modern e-commerce website developed using the Wix no-code platform. The website allows customers to browse food products, view prices and descriptions, add items to a shopping cart, and contact the restaurant through an online form.
 
-The website was designed to provide a simple, attractive, and user-friendly experience while demonstrating the practical application of e-commerce concepts learned in the E-Commerce and Web Application course.
+The platform was designed to provide a convenient and enjoyable online food ordering experience while demonstrating the practical application of e-commerce concepts and website design principles.
 
 ---
 
@@ -35,10 +35,10 @@ The website was designed to provide a simple, attractive, and user-friendly expe
 The objectives of this project are:
 
 - To design a professional e-commerce website using a no-code platform.
-- To apply UI/UX design principles.
-- To create an attractive online food ordering platform.
-- To demonstrate product presentation and cart interaction.
-- To practice GitHub documentation using Markdown.
+- To apply modern UI/UX principles.
+- To create a user-friendly online food ordering platform.
+- To provide customers with product browsing and cart functionality.
+- To practice GitHub repository management and Markdown documentation.
 
 ---
 
@@ -60,7 +60,7 @@ The homepage includes:
 - Welcome message
 - Hero banner section
 - Featured meals
-- Call-to-action buttons
+- Promotional offers
 - Navigation menu
 - Footer section
 
@@ -109,7 +109,7 @@ To provide delicious, affordable, and high-quality meals while delivering excell
 
 ### Our Vision
 
-To become a leading online restaurant and food delivery service by providing convenient and enjoyable dining experiences.
+To become a leading online restaurant and food delivery service by offering convenient and enjoyable dining experiences.
 
 ---
 
@@ -121,13 +121,13 @@ The Contact page includes:
 - Email address
 - Phone number
 - Business address
-- Customer inquiry section
+- Customer support information
 
 ---
 
 ## 📱 Responsive Design
 
-The website is responsive and can be viewed on:
+The website is optimized for:
 
 - Desktop Computers
 - Tablets
@@ -141,22 +141,22 @@ The website includes links to:
 
 - Facebook
 - Instagram
-- X (Twitter)
 - WhatsApp
+- X (Twitter)
 
 ---
 
 # 🎨 UI/UX Design Considerations
 
-The website was designed using the following UI/UX principles:
+The website was designed following these principles:
 
 - Simplicity
 - Consistency
 - Visibility
-- Easy Navigation
-- Attractive Visual Design
-- User-Friendly Layout
-- Responsive Interface
+- User-Friendly Navigation
+- Attractive Layout
+- Responsive Design
+- Accessibility
 
 ---
 
@@ -189,39 +189,45 @@ Cart
 
 ## Homepage
 
-![Homepage](images/homepage.png)
+![Homepage](Images/Homescreen.png)
 
 ---
 
 ## Product Page
 
-![Product Page](images/product-page.png)
+![Product Page](Images/Productscreen.png)
 
 ---
 
 ## Contact Page
 
-![Contact Page](images/contact-page.png)
+![Contact Page](Images/Contactscreen.png)
 
 ---
 
 ## Cart Page
 
-![Cart Page](images/cart-page.png)
+![Cart Page](Images/Cartscreen.png)
+
+---
+
+## About Page
+
+![About Page](Images/Aboutscreen.png)
 
 ---
 
 # 🚧 Challenges Encountered
 
-During the project development process, the following challenges were encountered:
+During the development of this project, several challenges were encountered:
 
 1. Selecting the most suitable Wix template.
 2. Organizing products effectively.
 3. Designing an attractive homepage.
-4. Creating a consistent navigation structure.
-5. Managing image quality and dimensions.
-6. Ensuring mobile responsiveness.
-7. Customizing Wix components to match the restaurant theme.
+4. Maintaining a consistent layout across pages.
+5. Managing image quality and sizing.
+6. Ensuring responsive design on different devices.
+7. Customizing Wix components to fit the restaurant theme.
 
 ---
 
@@ -229,15 +235,15 @@ During the project development process, the following challenges were encountere
 
 Through this project, I learned:
 
-- How to use Wix for website development.
-- Website planning and structure design.
-- E-commerce website fundamentals.
-- Product management and presentation.
+- How to build an e-commerce website using Wix.
+- Website planning and organization.
 - UI/UX design principles.
+- Product management and presentation.
+- Shopping cart implementation.
 - Responsive web design.
 - GitHub repository management.
 - Markdown documentation.
-- Importance of user-centered design.
+- Importance of customer-centered website design.
 
 ---
 
@@ -248,38 +254,33 @@ Delicious-Dining/
 │
 ├── README.md
 │
-└── images/
-    ├── homepage.png
-    ├── product-page.png
-    ├── contact-page.png
-    └── cart-page.png
+└── Images/
+    ├── Homescreen.png
+    ├── Productscreen.png
+    ├── Contactscreen.png
+    ├── Cartscreen.png
+    └── Aboutscreen.png
 ```
 
 ---
 
 # 🌐 Live Website Link
 
-**Website URL**
+Website URL:
 
-```text
-https://YOUR-WIX-LINK
-```
+https://YOUR-WIX-WEBSITE-LINK
 
 Example:
 
-```text
 https://deliciousdining.wixsite.com/delicious-dining
-```
 
 ---
 
 # 💻 GitHub Repository Link
 
-**Repository URL**
+Repository URL:
 
-```text
-https://github.com/YOUR-USERNAME/delicious-dining
-```
+https://github.com/YOUR-USERNAME/Delicious-Dining
 
 ---
 
@@ -302,9 +303,9 @@ https://github.com/YOUR-USERNAME/delicious-dining
 
 # 🏆 Conclusion
 
-The Delicious Dining website successfully demonstrates the development of a modern e-commerce platform using the Wix no-code environment. The website incorporates essential e-commerce functionalities, including product display, cart interaction, contact features, responsive design, and user-friendly navigation.
+The Delicious Dining website successfully demonstrates the use of a no-code platform to create a functional e-commerce website. The project includes essential e-commerce features such as product display, shopping cart interaction, contact functionality, responsive design, and user-friendly navigation.
 
-This project enhanced my practical skills in e-commerce website design, UI/UX implementation, GitHub documentation, and no-code web development.
+This project enhanced my practical skills in website development, UI/UX design, e-commerce concepts, GitHub repository management, and Markdown documentation.
 
 ---
 
