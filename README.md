@@ -5,7 +5,7 @@
 | Field | Details |
 |---------|---------|
 | Student Name | Kenny Eduin REBERO Ikuzo |
-| Student ID | YOUR STUDENT ID |
+| Student ID | 23927/2024 |
 | Department | Software Engineering |
 | Course | E-Commerce And Web Application (EWA408510) |
 | Lecturer | Eric Maniraguha |
