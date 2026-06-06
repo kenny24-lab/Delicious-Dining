@@ -268,11 +268,8 @@ Delicious-Dining/
 
 Website URL:
 
-https://YOUR-WIX-WEBSITE-LINK
+https://reberoikuzokennyed.wixsite.com/delicious-dining
 
-Example:
-
-https://deliciousdining.wixsite.com/delicious-dining
 
 ---
 
@@ -280,7 +277,7 @@ https://deliciousdining.wixsite.com/delicious-dining
 
 Repository URL:
 
-https://github.com/YOUR-USERNAME/Delicious-Dining
+https://github.com/kenny24-lab/Delicious-Dining
 
 ---
 
