@@ -1,101 +1,191 @@
-# Delicious-Dining
 # 🍽️ Delicious Dining
 
 ## Student Information
 
-| Field | Information |
-|---------|------------|
+| Field | Details |
+|---------|---------|
 | Student Name | Kenny Eduin REBERO Ikuzo |
-| Student ID : 23927/2024
+| Student ID | YOUR STUDENT ID |
+| Department | Software Engineering |
 | Course | E-Commerce And Web Application (EWA408510) |
 | Lecturer | Eric Maniraguha |
 | Academic Year | 2025-2026 |
 | Semester | II |
-| Project Type | No-Code E-Commerce Website |
+| Project Type | Individual Project |
 | Platform Used | Wix |
 
 ---
 
-# Project Title
+# 📌 Project Title
 
-## Delicious Dining – Online Food Ordering Website
-
-Delicious Dining is an e-commerce website designed to allow customers to explore food products, view prices, add items to a cart, and contact the restaurant easily. The website was developed using the Wix no-code platform as part of the E-Commerce and Web Application course project.
+## Delicious Dining – Online Food Ordering and Restaurant E-Commerce Website
 
 ---
 
-# Project Objective
+# 📖 Project Description
 
-The objective of this project is to design and develop a user-friendly e-commerce website using a no-code platform while applying website design, UI/UX, navigation, and online shopping concepts.
+Delicious Dining is a modern e-commerce website developed using the Wix no-code platform. The website allows customers to browse food products, view prices and descriptions, add items to a shopping cart, and contact the restaurant through an online form.
+
+The website was designed to provide a simple, attractive, and user-friendly experience while demonstrating the practical application of e-commerce concepts learned in the E-Commerce and Web Application course.
 
 ---
 
-# Platform Used
+# 🎯 Project Objectives
+
+The objectives of this project are:
+
+- To design a professional e-commerce website using a no-code platform.
+- To apply UI/UX design principles.
+- To create an attractive online food ordering platform.
+- To demonstrate product presentation and cart interaction.
+- To practice GitHub documentation using Markdown.
+
+---
+
+# 🛠️ Platform Used
 
 - Wix Website Builder
-- GitHub for Documentation
-- Markdown (README.md)
+- GitHub
+- Markdown Documentation
 
 ---
 
-# Website Features
+# ✨ Features Implemented
 
-The website includes the following features:
+## 🏠 Homepage
 
-## Homepage
-- Store name and logo
+The homepage includes:
+
+- Delicious Dining logo
 - Welcome message
-- Featured products
-- Attractive banner section
+- Hero banner section
+- Featured meals
+- Call-to-action buttons
+- Navigation menu
+- Footer section
 
-## Product Page
-The website contains at least five products with:
+---
 
-- Product image
-- Product name
-- Product description
-- Product price
+## 🍔 Product Page
 
-### Sample Products
+The product page displays food items with:
 
-1. Grilled Chicken
-2. Beef Burger
-3. Pizza Special
-4. Fresh Juice
-5. Chocolate Cake
+- Product images
+- Product names
+- Product descriptions
+- Product prices
+- Add-to-cart buttons
 
-## About Page
-Contains:
-- Business description
-- Company mission
-- Vision statement
+### Products Available
 
-## Contact Page
-Contains:
-- Email address
-- Phone number
-- Contact form
+| Product | Price |
+|----------|--------|
+| Beef Burger | $8 |
+| Chicken Pizza | $12 |
+| Grilled Chicken | $10 |
+| Fresh Juice | $4 |
+| Chocolate Cake | $6 |
 
-## Cart Functionality
+---
+
+## 🛒 Shopping Cart
+
+The website includes:
+
 - Add-to-cart simulation
 - Product quantity selection
-- Cart review before checkout
+- Cart review section
+- Order summary
 
 ---
 
-# Website Pages
+## ℹ️ About Page
 
-| Page | Description |
-|--------|------------|
-| Home | Welcome page with featured products |
-| Products | Food menu and pricing |
-| About | Company information and mission |
-| Contact | Contact details and contact form |
-| Cart | Shopping cart simulation |
+The About page contains:
+
+### Our Mission
+
+To provide delicious, affordable, and high-quality meals while delivering excellent customer service.
+
+### Our Vision
+
+To become a leading online restaurant and food delivery service by providing convenient and enjoyable dining experiences.
 
 ---
 
-# Screenshots
+## 📞 Contact Page
+
+The Contact page includes:
+
+- Contact form
+- Email address
+- Phone number
+- Business address
+- Customer inquiry section
+
+---
+
+## 📱 Responsive Design
+
+The website is responsive and can be viewed on:
+
+- Desktop Computers
+- Tablets
+- Smartphones
+
+---
+
+## 🔗 Social Media Integration
+
+The website includes links to:
+
+- Facebook
+- Instagram
+- X (Twitter)
+- WhatsApp
+
+---
+
+# 🎨 UI/UX Design Considerations
+
+The website was designed using the following UI/UX principles:
+
+- Simplicity
+- Consistency
+- Visibility
+- Easy Navigation
+- Attractive Visual Design
+- User-Friendly Layout
+- Responsive Interface
+
+---
+
+# 📂 Website Structure
+
+```text
+Home
+│
+├── Featured Products
+├── Promotions
+│
+Products
+│
+├── Burgers
+├── Pizza
+├── Chicken
+├── Drinks
+├── Desserts
+│
+About
+│
+Contact
+│
+Cart
+```
+
+---
+
+# 📸 Screenshots
 
 ## Homepage
 
@@ -105,49 +195,53 @@ Contains:
 
 ## Product Page
 
-![Products](images/product-page.png)
+![Product Page](images/product-page.png)
 
 ---
 
 ## Contact Page
 
-![Contact](images/contact-page.png)
+![Contact Page](images/contact-page.png)
 
 ---
 
 ## Cart Page
 
-![Cart](images/cart-page.png)
+![Cart Page](images/cart-page.png)
 
 ---
 
-# Challenges Faced
+# 🚧 Challenges Encountered
 
-During the development of this project, several challenges were encountered:
+During the project development process, the following challenges were encountered:
 
-1. Selecting a suitable website template.
-2. Organizing product information effectively.
-3. Customizing page layouts for better user experience.
-4. Designing an attractive navigation menu.
-5. Managing image sizes and formatting.
+1. Selecting the most suitable Wix template.
+2. Organizing products effectively.
+3. Designing an attractive homepage.
+4. Creating a consistent navigation structure.
+5. Managing image quality and dimensions.
+6. Ensuring mobile responsiveness.
+7. Customizing Wix components to match the restaurant theme.
 
 ---
 
-# Lessons Learned
+# 📚 Lessons Learned
 
 Through this project, I learned:
 
 - How to use Wix for website development.
-- Basic principles of e-commerce website design.
-- UI/UX best practices.
-- Website navigation and page organization.
+- Website planning and structure design.
+- E-commerce website fundamentals.
+- Product management and presentation.
+- UI/UX design principles.
+- Responsive web design.
 - GitHub repository management.
-- Markdown documentation techniques.
-- Importance of responsive and user-friendly interfaces.
+- Markdown documentation.
+- Importance of user-centered design.
 
 ---
 
-# Repository Structure
+# 📁 Repository Structure
 
 ```text
 Delicious-Dining/
@@ -163,37 +257,58 @@ Delicious-Dining/
 
 ---
 
-# Live Website Link
+# 🌐 Live Website Link
 
-🔗 Website:
+**Website URL**
 
-YOUR_WIX_WEBSITE_LINK_HERE
+```text
+https://YOUR-WIX-LINK
+```
 
 Example:
 
+```text
 https://deliciousdining.wixsite.com/delicious-dining
+```
 
 ---
 
-# GitHub Repository Link
+# 💻 GitHub Repository Link
 
-🔗 Repository:
+**Repository URL**
 
-YOUR_GITHUB_REPOSITORY_LINK_HERE
-
-Example:
-
-https://github.com/yourusername/delicious-dining
+```text
+https://github.com/YOUR-USERNAME/delicious-dining
+```
 
 ---
 
-# Conclusion
+# ✅ Project Requirements Checklist
 
-The Delicious Dining project successfully demonstrates the use of a no-code platform to develop a functional e-commerce website. The project includes essential e-commerce features such as product display, shopping cart interaction, contact information, and user-friendly navigation. It also provides practical experience in website development, UI/UX design, GitHub documentation, and online business presentation.
+| Requirement | Status |
+|------------|---------|
+| Homepage | ✔️ Completed |
+| Product Page | ✔️ Completed |
+| Minimum 5 Products | ✔️ Completed |
+| About Page | ✔️ Completed |
+| Contact Page | ✔️ Completed |
+| Cart Interaction | ✔️ Completed |
+| GitHub Repository | ✔️ Completed |
+| README.md Documentation | ✔️ Completed |
+| Screenshots Included | ✔️ Completed |
+| Live Website Link | ✔️ Completed |
 
 ---
 
-## Author
+# 🏆 Conclusion
+
+The Delicious Dining website successfully demonstrates the development of a modern e-commerce platform using the Wix no-code environment. The website incorporates essential e-commerce functionalities, including product display, cart interaction, contact features, responsive design, and user-friendly navigation.
+
+This project enhanced my practical skills in e-commerce website design, UI/UX implementation, GitHub documentation, and no-code web development.
+
+---
+
+## 👨‍💻 Author
 
 **Kenny Eduin REBERO Ikuzo**
 
@@ -201,4 +316,4 @@ Software Engineering Student
 
 University of Lay Adventists of Kigali (UNILAK)
 
-Academic Year 2025-2026
+Academic Year: 2025–2026
